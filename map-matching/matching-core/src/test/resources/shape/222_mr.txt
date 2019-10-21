@@ -1,0 +1,108 @@
+edgeID;edgeName;edgeDistance
+1774125;Rua Aristóteles;182.893
+3726117;Rua Darwin;97.289
+1774118;Rua Einstein;184.974
+1774223;Rua Huxley;99.101
+1774224;Rua Huxley;111.653
+1774225;Rua Huxley;172.314
+1774142;Avenida Allan Kardec;76.096
+1774143;Avenida Allan Kardec;76.203
+1774144;Avenida Allan Kardec;54.259
+1774145;Avenida Allan Kardec;53.17
+1774146;Avenida Allan Kardec;74.46
+1774147;Avenida Allan Kardec;75.762
+1774871;Rua Roger Bacon;65.659
+1774870;Rua Roger Bacon;77.635
+1645210;Rua Luis Alberto Ferreira;75.442
+1645211;Rua Luis Alberto Ferreira;50.19
+1645212;Rua Luis Alberto Ferreira;48.039
+1645213;Rua Luis Alberto Ferreira;50.322
+1645214;Rua Luis Alberto Ferreira;5.649
+3154464;Ponte Rio Atuba;20.138
+3154399;Rua República Guarani;25.46
+3154400;Rua República Guarani;100.294
+3154401;Rua República Guarani;39.86
+3154402;Rua República Guarani;139.897
+3154403;Rua República Guarani;47.858
+3154404;Rua República Guarani;49.741
+3154405;Rua República Guarani;49.155
+3154406;Rua República Guarani;52.842
+3154407;Rua República Guarani;52.413
+1774847;Rua João Batista Scucato;99.215
+1774846;Rua João Batista Scucato;121.771
+1645233;Rua Alcindo Fanaya;119.168
+1774852;Rua Antônio de Cristo;52.792
+1774853;Rua Antônio de Cristo;97.494
+5240728;Marginal Estrada da Ribeira;78.479
+5240743;Marginal Estrada da Ribeira;193.143
+7826690;Rua República Guarani;30.431
+1774847;Rua João Batista Scucato;99.215
+1774846;Rua João Batista Scucato;121.771
+1645233;Rua Alcindo Fanaya;119.168
+1774852;Rua Antônio de Cristo;52.792
+1774853;Rua Antônio de Cristo;97.494
+5240728;Marginal Estrada da Ribeira;78.479
+5240734;;16.246
+5240735;;14.039
+5240736;;11.615
+5240739;Marginal Estrada da Ribeira;85.031
+5240749;Marginal Estrada da Ribeira;86.654
+8698991;Rua F;167.019
+867158;Rua Roaldo Brun;110.387
+867159;Rua Roaldo Brun;127.151
+867160;Rua Roaldo Brun;102.563
+867161;Rua Roaldo Brun;29.658
+3147389;Rua Roaldo Brun;72.813
+1545546;Rua Roaldo Brun;87.128
+867157;Avenida Monteiro Tourinho;81.909
+5240731;Avenida Monteiro Tourinho;54.88
+6685754;Avenida Monteiro Tourinho;19.906
+6685753;Avenida Monteiro Tourinho;172.73
+4468497;Avenida Monteiro Tourinho;274.768
+4468496;Avenida Monteiro Tourinho;84.864
+4468495;Avenida Monteiro Tourinho;10.126
+4468494;Avenida Monteiro Tourinho;139.976
+4468493;Avenida Monteiro Tourinho;102.148
+4468492;Avenida Monteiro Tourinho;39.082
+4468491;Avenida Monteiro Tourinho;52.163
+4468490;Avenida Monteiro Tourinho;47.147
+4468489;Avenida Monteiro Tourinho;103.066
+4468488;Avenida Monteiro Tourinho;77.135
+4468487;Avenida Monteiro Tourinho;22.22
+4468486;Avenida Monteiro Tourinho;117.673
+4468485;Avenida Monteiro Tourinho;22.678
+4468484;Avenida Monteiro Tourinho;64.635
+4468483;Avenida Monteiro Tourinho;66.002
+4468482;Avenida Monteiro Tourinho;206.578
+4468481;Avenida Monteiro Tourinho;35.586
+4462965;Avenida Prefeito Erasto Gaertner;41.527
+4462966;Avenida Prefeito Erasto Gaertner, Avenida Monteiro Tourinho;20.788
+1545310;Avenida Prefeito Erasto Gaertner;10.789
+1545309;Avenida Prefeito Erasto Gaertner;114.5
+1545308;Avenida Prefeito Erasto Gaertner;120.322
+1545307;Avenida Prefeito Erasto Gaertner;120.434
+1545306;Avenida Prefeito Erasto Gaertner;113.476
+1545305;Avenida Prefeito Erasto Gaertner;32.835
+1545304;Avenida Prefeito Erasto Gaertner;110.563
+1545303;Avenida Prefeito Erasto Gaertner;21.155
+1545302;Avenida Prefeito Erasto Gaertner;51.754
+1545301;Avenida Prefeito Erasto Gaertner;86.621
+1545300;Avenida Prefeito Erasto Gaertner;36.581
+1545299;Avenida Prefeito Erasto Gaertner;70.376
+1545298;Avenida Prefeito Erasto Gaertner;9.078
+1545297;Avenida Prefeito Erasto Gaertner;102.513
+1545296;Avenida Prefeito Erasto Gaertner;16.578
+1545295;Avenida Prefeito Erasto Gaertner;80.166
+1545294;Avenida Prefeito Erasto Gaertner;131.21
+1545293;Avenida Prefeito Erasto Gaertner;14.427
+1545292;Avenida Prefeito Erasto Gaertner;202.221
+475048;Rua Álvaro Botelho;116.992
+475051;Rua Nicarágua;136.289
+43545;Rua Marcelino Nogueira;119.36
+43546;Rua Marcelino Nogueira;269.482
+43547;Rua Marcelino Nogueira;116.267
+43548;Rua Marcelino Nogueira;96.672
+4874682;Rua Marcelino Nogueira;9.361
+9162612;Rua João Havro;10.499
+219133;Rua João Havro;26.915
+8910351;;53.053
